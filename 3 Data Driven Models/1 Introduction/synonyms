@@ -1,0 +1,5 @@
+The variable you are trying to predict:
+"y-value", "dependent variable",  "endogenous", "response variable", "regressand", "criterion", "predicted variable", "measured variable", "explained variable", "experimental variable", "responding variable", "outcome variable", "output variable", "target" or "label"
+
+The variables that you use for making the prediction:
+"X-values", "independent variable", "exogenous", "covariates",  "predictor variable", "regressor", "covariate", "manipulated variable", "explanatory variable", "exposure variable" (see reliability theory), "risk factor" (see medical statistics), "feature" (in machine learning and pattern recognition) or "input variable".[13][14] In econometrics, the term "control variable" is usually used instead of "covariate"

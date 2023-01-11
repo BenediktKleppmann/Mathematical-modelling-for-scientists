@@ -1,0 +1,5 @@
+most of the data driven models can be made into  statistical models. The only exceptions are:
+non-parametric models - they don't have any parameters that would have an uncertainty attached to it anyway
+rule-learning
+soft logic
+graphical models

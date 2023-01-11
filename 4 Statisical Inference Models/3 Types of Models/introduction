@@ -1,0 +1,9 @@
+There are different theories of inference:
+* maximum likelihood - you specify that d(ln(L(y|θ)))/d(θ) = 0   and d²(ln(L(y|θ)))/d(θ)² < 0
+advantages of maximum likelihood: unbiased, linear, minimum variance, invariance to continuously increasing the sample size
+
+* estimator inference - choose an estimator with your favourite criteria 
+unbiased = the mean of multiple small samples is around the true value, 
+consistenct = as the sample size goes to infinity, the estimate goes towards the true value (law of large numbers)
+efficient = it has minimum variance
+linear, asymptotic normality (central limit theorem), asymptotic efficiency )

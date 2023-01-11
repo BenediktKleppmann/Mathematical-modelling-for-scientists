@@ -1,0 +1,4 @@
+any of the parametric models can be statistical models.
+
+knowing the uncertainty around parameter estimates is most useful for generative models
+it is also used for e.g. neural networks (bayesian neural networks) 
