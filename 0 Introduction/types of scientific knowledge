@@ -1,4 +1,4 @@
-There are two types of scientific knowledge: macroscopic patterns and microscopic models
+There are three types of scientific knowledge: macroscopic patterns, microscopic models and stories
 
 macroscopic patterns
 macroscopic patterns are some (usually approximate) relationships between macroscopic variables
@@ -18,17 +18,49 @@ For example:
 molecular biology - model of the molecules in our bodies and how they interact
 mechanics - model of how solid objects move and interact
 
-Whereas the macroscopic patterns are only useful for a very specific question - e.g. determining if one substance is cancerogenic or predicting when solar eclipses happen on earth - the macroscopic rules can be used to model any system. E.g. Microbiology allows us to identify any number of cancerogenic substances or using the mechanics, we can simulate any solar system and use this to predict not only solar eclipses, but any cosmological event.
+The macroscopic patterns discussed above are only useful for answering a very specific questions: "does this one substance cause cancer?" or "when will there be a solar eclipse?". 
+Microsopic models on the other hand can be used to model any system. E.g. Microbiology allows us to identify any number of cancerogenic substances or using the mechanics, we can simulate any solar system and use this to predict not only solar eclipses, but any cosmological event.
 
-We know how any system will behave.
-
-This flexibility of microscopic models is incredibly powerful
-
-None of our modern technology would be possible without the great power and flexibility microscopic models. They allow engineers to design and accurately simulate ... 
+In other words: microscopic models allow us to put the model components in any configuration and simulate what happens. The power of microscopic models to accurately simulate any configuration/system is really what has enabled most of our modern technology. It has allowed engineers to design and accurately simulate ... 
 any machine or apparatus (mechanics, fluid mechanics,electromagnetism, thermodynamics), 
-any construction/infrastructure (statics, dynamics, fluid mechanics), design and accurately simulate any molecules (quantum chemistry), 
+any construction/infrastructure (statics, dynamics, fluid mechanics), 
+any molecules and materials (quantum chemistry, solid state physics), 
 any chemical processes (chemistry)
-predict chemical reactions and material properties chemical reactions, material properties (solid state physics)
+etc.
+
+Stories
+A sotry is an explanation of observed phenomena in terms of a microscopic model. 
+Here, the microscopic model assumed to be true. The story investigates what processes and structures the microscopic model components must have had in order to produce the observed phenomena.
+
+
+The goal of science
+The two most commonly named goals of science are: 'understanding how the world works' (fundamental research) and 'improving lives through innovations' (applied research)
+
+Understanding the how the world works (fundamental research)
+What does it mean to have understood how something works? It means: 'to know the underlying mechanism that drives it' or 'to know what the underlying components and their interactions are' i.e. to know the underlying microscopic model.
+Macroscpic patterns don't help us much with this task of developping a good understanding/a good microscopic model.
+
+Improving lives through innovations (applied research)
+Here, macroscopic patterns are often very useful/necessary. Especially for testing whether a hypothesis that was theoretically derived from microscopic models holds true in practice.
+
+
+
+
+
+
+
+
+There are very few areas that can claim that science in this area has been completed i.e. that all known phenomena have been explained and that the evidence for this explanation is so overwhelming that 
+
+in some of the above mentioned areas (mechanics, fluid mechanics,electromagnetism, thermodynamics, statics, dynamics) science has been completed
+The ultimate goal of science is to fully understand a system i.e. find a model that
+explains all phenomena
+in which we are 100% certain 
+
+
+
+The goal of science
+Moreover, 
 
 comes from having a set of behaviour rules that is generally applicable i.e. that hold true in any scenario.
 
